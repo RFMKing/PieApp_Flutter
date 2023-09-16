@@ -1,16 +1,6 @@
 # pie
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+APP feito como projeto de conclusão do curso TI para Web. Serve como a parte de compra de alimentos para os alunos da instituição que usam o sistema educacional disponível para desktop.
+Para instalar o aplicativo execute o arquivo apk-release.apk em um dispositivo mobile Android. 
+Para rodar pelo seu browser no desktop, tenha o Flutter+Android Studio preparado e no terminal do seu editor de código (provavelmente um powershell) utilize o comando "flutter run" e escolha o browser disponível para rodar o App.
+O código QR vencera em 7 dias após a postagem desse projeto, então caso queira outro para poder baixar diretamente em seu aparelho Android, entre em contato pelo Github para eu gerar um novo.
